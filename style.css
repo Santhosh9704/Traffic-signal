@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+
+}
+
+.container{
+    background-color: black;
+    padding: 50px;
+    border-radius: 150px;
+    margin-top: 50px;
+
+}
+.sig{
+    width: 120px;
+    height: 120px;
+    background-color: rgba(65,65,65);
+    margin:30px;
+    border-radius: 150px;
+
+}
+.red:hover{
+    background-color: red;
+}
+.yellow:hover{
+    background-color:yellow;
+}
+.green:hover{
+    background-color:green;
+}
