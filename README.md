@@ -1,1 +1,2 @@
-first use html code after use css code
+this is my first mmini project traffic light .
+i really fun to make for me 
